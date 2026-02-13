@@ -1,6 +1,5 @@
 package week03.invoice;
 
-// Variant A
 public class InvoiceA {
     private String partNumber;
     private String partDescription;
