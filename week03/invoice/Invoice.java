@@ -23,7 +23,6 @@ public class InvoiceA {
     public double getInvoiceAmount() { return quantity * pricePerItem; }
 }
 
-// Variant B (default erişimli, eyni faylda ola bilər)
 class InvoiceB {
     private String partNumber;
     private String partDescription;
